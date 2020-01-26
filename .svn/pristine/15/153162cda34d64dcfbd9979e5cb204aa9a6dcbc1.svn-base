@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Chetana_VFTP\\Android\\PROJECT\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gallery_pics.png",
+        "source": "E:\\Chetana_VFTP\\Android\\PROJECT\\PetroSoft1\\petroSoft\\src\\main\\res\\drawable-mdpi\\ic_gallery_pics.png"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gallery_pics.png",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\drawable-mdpi\\ic_gallery_pics.png"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Chetana_VFTP\\Android\\PROJECT\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Chetana_VFTP\\Android\\PROJECT\\PetroSoft1\\petroSoft\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

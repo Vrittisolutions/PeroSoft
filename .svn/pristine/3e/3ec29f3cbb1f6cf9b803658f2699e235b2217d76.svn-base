@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\menu\\shift_menu.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\menu\\shift_menu.xml"
+    }
+]

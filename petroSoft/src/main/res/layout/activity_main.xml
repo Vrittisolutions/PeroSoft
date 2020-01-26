@@ -1,0 +1,140 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" android:id="@+id/linear_main_base"
+    android:orientation="vertical"
+    tools:context="com.vritti.petrosoft.MainActivity" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:background="#0C8FD1"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iconlogo"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tvpTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="50sp"
+            android:gravity="center_vertical"
+            android:padding="10sp"
+            android:text="PetroSoft"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivlogo"
+        android:layout_width="250sp"
+        android:layout_height="100sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10sp"
+        android:src="@drawable/petro_soft_logo" />
+    
+    <ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+        <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/btnSale"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginTop="10sp"
+                android:layout_marginRight="10sp"
+                android:background="@drawable/button_pressed"
+                android:text="Card Sale"
+                android:textColor="#ffffff"
+                android:textSize="20dp" />
+    
+     <Button
+        android:id="@+id/btncoupon"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+         android:textSize="20dp"
+        android:background="@drawable/button_pressed"
+        android:text="Credit Sale"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/btnVehReg"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+        android:textSize="20dp"
+        android:background="@drawable/button_pressed"
+        android:text="Vehicle Registration"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/btnCardReg"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+        android:textSize="20dp"
+        android:background="@drawable/button_pressed"
+        android:text="Card Registration"
+        android:textColor="#ffffff" />
+    
+    <Button
+        android:id="@+id/btnDSR"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+        android:textSize="20dp"
+        android:background="@drawable/button_pressed"
+        android:text="Shift Sale Entry (DSR)"
+        android:textColor="#ffffff" />
+    
+    <Button
+        android:id="@+id/btnSetup"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+        android:background="@drawable/button_pressed"
+        android:text="Setup"
+        android:textSize="20dp"
+        android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnRdmPts"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginTop="10sp"
+                android:background="@drawable/button_pressed"
+                android:text="Redeem Points"
+                android:textSize="20dp"
+                android:textColor="#ffffff" />
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

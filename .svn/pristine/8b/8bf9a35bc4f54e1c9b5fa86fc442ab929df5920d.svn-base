@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="1.00" >
+
+        <TextView
+            android:id="@+id/tvpumpno"
+            android:layout_width="0sp"
+            android:layout_height="50sp"
+            android:layout_weight="0.2"
+            android:gravity="center_vertical"
+            android:padding="3sp"
+            android:text="Pump No"
+            android:textColor="#000000"
+            android:textSize="17sp" />
+        
+        <TextView
+            android:id="@+id/tvpumpname"
+            android:layout_width="0sp"
+            android:layout_height="50sp"
+            android:layout_weight="0.2"
+            android:gravity="center_vertical"
+            android:padding="3sp"
+            android:text="Pump Name"
+            android:textColor="#000000"
+            android:textSize="17sp" />
+        
+        <TextView
+            android:id="@+id/tvclosing"
+            android:layout_width="0sp"
+            android:layout_height="50sp"
+            android:layout_weight="0.6"
+            android:gravity="right|center_vertical"
+            android:padding="3sp"
+            android:text="Closing"
+            android:textColor="#000000"
+            android:textSize="17sp" />
+        </LinearLayout>
+    
+
+</LinearLayout>

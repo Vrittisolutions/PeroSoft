@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+MERGED from [:ndeftoolsutil] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:ndeftools] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:17:1-56:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\df770c8b60d2af15a5f2d87bc2a32793\AndroidManifest.xml:16:1-19:12
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:1-123:12
+	package
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [:ndeftoolsutil] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ndeftoolsutil] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ndeftools] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ndeftools] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\df770c8b60d2af15a5f2d87bc2a32793\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\df770c8b60d2af15a5f2d87bc2a32793\AndroidManifest.xml:18:5-42
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+		INJECTED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:11:5-62
+MERGED from [:ndeftoolsutil] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-62
+MERGED from [:ndeftoolsutil] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:11:22-59
+uses-feature#android.hardware.nfc
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:14:9-44
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.INTERNET
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:21:22-71
+application
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:23:5-121:19
+MERGED from [:ndeftools] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:ndeftools] E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:46:5-54:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:26:9-41
+	android:hardwareAccelerated
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:27:9-43
+	android:icon
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:25:9-45
+	android:allowBackup
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:28:9-56
+service#com.vritti.petrosoft.SendDSRService
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:30:9-71
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:30:18-68
+activity#com.vritti.petrosoft.RegisterIpActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:31:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:35:27-74
+activity#com.vritti.petrosoft.DSRGetBankDepoActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:42:13-71
+activity#com.vritti.petrosoft.CashActivity1
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:44:9-45:61
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:44:19-68
+activity#com.vritti.petrosoft.SetupActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:46:9-49:56
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:48:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:47:13-62
+activity#com.vritti.petrosoft.DSRGetOtherExpActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:53:9-55:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:54:13-71
+activity#com.vritti.petrosoft.DSRGetSwapCardActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:57:13-71
+activity#com.vritti.petrosoft.DSRGetOtherRcptActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:60:13-72
+activity#com.vritti.petrosoft.DSRGetOtherAddRsActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:63:13-73
+activity#com.vritti.petrosoft.DSRGetProductSaleActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:65:10-67:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:66:13-74
+activity#com.vritti.petrosoft.DSRActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:69:13-60
+activity#com.vritti.petrosoft.MainActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:72:13-61
+activity#com.vritti.petrosoft.SaleActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:74:9-82:20
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:75:13-61
+intent-filter#action:name:android.nfc.action.TECH_DISCOVERED+category:name:android.intent.category.DEFAULT
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:77:13-81:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:78:17-77
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:78:25-74
+category#android.intent.category.DEFAULT
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:80:17-76
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:80:27-73
+activity#com.vritti.petrosoft.LoginActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:83:9-85:48
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:85:9-45
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:84:9-58
+activity#com.vritti.petrosoft.CouponSaleCustActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:87:13-71
+activity#com.vritti.petrosoft.DSRGetCashierActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:90:13-70
+activity#com.vritti.petrosoft.DSRGetPetroSaleActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:92:9-94:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:93:13-72
+activity#com.vritti.petrosoft.BillDetails
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:95:9-97:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:96:13-60
+activity#com.vritti.petrosoft.ProductSelectionActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:98:9-100:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:99:13-73
+activity#com.vritti.petrosoft.DeviceListActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:101:9-103:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:102:13-67
+activity#com.vritti.petrosoft.VehicleRegistrationActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:104:9-106:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:105:13-76
+activity#com.vritti.petrosoft.CouponSale
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:107:9-109:52
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:108:13-59
+activity#com.vritti.petrosoft.CardRegistrationActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:112:9-116:15
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:114:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:115:13-54
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:113:13-73
+activity#com.vritti.petrosoft.GetVehicleActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:117:9-118:61
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:117:19-73
+activity#com.vritti.petrosoft.GetCashierActivity
+ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:119:10-120:61
+	android:screenOrientation
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:120:13-49
+	android:name
+		ADDED from E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\src\main\AndroidManifest.xml:119:20-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\94e92312a221fa1fcd96adb4f9201fe6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\9cfa9d2c1ea3e17e818732b78e5b12dc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\eb2dae5fd7be4f0a4d13eaab0885f10c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\2b3810301f4918da3ebfeb9201a7e6cf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\ed0062625aebc0c644ffc5357534e0f6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\4b04f4f5cd04e6c860f587c684f016bc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\4491f58b5ff19f717a7d4bd5df964525\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\74b0e911b13c02de41ba2bbed4ac61df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\608b981681c8d7f5659fa98191e9017d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\8c275079378b41f6d6794028eeeb7ba5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\78491b9e36f786aa87b1bfd1c76179e9\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\377a8eec7f2b0894bdc604146ff1a4a3\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\chetana\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\9c931d74c12290d7820e0741b152dcbe\AndroidManifest.xml:48:13-74

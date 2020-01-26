@@ -1,0 +1,412 @@
+package com.vritti.petrosoft;
+
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Locale;
+
+import com.squareup.picasso.Picasso;
+import com.vritti.common.PetroSoftData;
+import com.vritti.database.DatabaseHelper;
+
+import android.app.Activity;
+import android.app.DatePickerDialog;
+import android.app.Dialog;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.content.res.Resources;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.ColorDrawable;
+import android.net.Uri;
+import android.os.Bundle;
+import android.provider.MediaStore;
+import android.support.annotation.Nullable;
+import android.util.Base64;
+import android.view.ActionMode;
+import android.view.MotionEvent;
+import android.view.SearchEvent;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.Window;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
+import android.widget.Button;
+import android.widget.DatePicker;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.ListView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.Toast;
+
+public class SetupActivity extends Activity implements OnClickListener{
+
+	DatePickerDialog.OnDateSetListener date;
+	AutoCompleteTextView edPrinterUsage,eddefaultitem,edNeedVehKm, edNeedRQAC, edonlyrfidsale, edselscanmode, edallowrewrdpts;
+	static EditText edworkingdate, edtermsNcondition, edfilepath;
+	static Calendar myCalendar;
+	String formattedDate;
+	Context parent;
+	Button btnSaveSettings;
+	ImageView btngallery, ivlogo;
+	private ArrayList<String> ItemNameList;
+	String Imagefilename, image_encode="NA", encodedImage;
+
+	private static int IMG_RESULT = 200;
+	
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+		setContentView(R.layout.activity_setup);
+		
+        String str[]={"Bluetooth","System"};
+		String str2[]={"Yes","No"};
+		String str_scan_mode[] = {"RFID","QR CODE"};
+		
+		initViews();
+
+		if (PetroSoftData.NeedVehKm==null){
+			edNeedVehKm.setText("No");
+		} else {
+			edNeedVehKm.setText(PetroSoftData.NeedVehKm);
+		}
+
+		if (PetroSoftData.RemoveRQAC==null){
+			edNeedRQAC.setText("No");
+		} else {
+			edNeedRQAC.setText(PetroSoftData.RemoveRQAC);
+		}
+
+		if (PetroSoftData.OnlyRFIDSale==null){
+			edonlyrfidsale.setText("No");
+		} else {
+			edonlyrfidsale.setText(PetroSoftData.OnlyRFIDSale);
+		}
+
+		if (PetroSoftData.AllowRewardsPoints==null){
+			edallowrewrdpts.setText("No");
+		} else {
+			edallowrewrdpts.setText(PetroSoftData.AllowRewardsPoints);
+		}
+
+		// add validation of scan mode RFID/QRCode
+		if(PetroSoftData.ScanMode_RFID_QRCODE==null){
+			edselscanmode.setText("RFID");
+		}else if(PetroSoftData.ScanMode_RFID_QRCODE.equalsIgnoreCase("QR CODE")){
+			//set settings of QRCode
+			edselscanmode.setText("QR CODE");
+
+		}else if(PetroSoftData.ScanMode_RFID_QRCODE.equalsIgnoreCase("RFID")){
+			//set settings of RFID as it is
+			edselscanmode.setText("RFID");
+		}
+
+		if (PetroSoftData.DefaultItem==null){
+			eddefaultitem.setText("");
+		} else {
+			eddefaultitem.setText(PetroSoftData.DefaultItem);
+		}
+
+		if (PetroSoftData.PRINTERSETTING==null){
+			edPrinterUsage.setText("System");
+		} else {
+			edPrinterUsage.setText(PetroSoftData.PRINTERSETTING);
+		}
+		if (PetroSoftData.WORKINGDATE==null){
+			System.out.println("Current time => " + myCalendar.getTime());
+			SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
+			formattedDate = df.format(myCalendar.getTime());
+			edworkingdate.setText(formattedDate);
+		} else {
+			edworkingdate.setText(PetroSoftData.WORKINGDATE);
+		}
+
+		updateCustomerSpinner();
+		ArrayAdapter<String> adapter2 = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, ItemNameList);
+		eddefaultitem.setThreshold(1);
+		eddefaultitem.setAdapter(adapter2);
+		eddefaultitem.setOnTouchListener(new View.OnTouchListener(){
+			@Override
+			public boolean onTouch(View v, MotionEvent event){
+				eddefaultitem.showDropDown();
+				return false;
+			}
+		});
+		
+		ArrayAdapter<String> adapter3 = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, str2);
+		//adapter1.setDropDownViewResource(android.R.layout.simple_list_item_1);
+		edNeedVehKm.setThreshold(1);
+		edNeedVehKm.setAdapter(adapter3);
+		edNeedVehKm.setOnTouchListener(new View.OnTouchListener(){
+			   @Override
+			   public boolean onTouch(View v, MotionEvent event){
+			   	edNeedVehKm.showDropDown();
+			      return false;
+			   }
+			});
+
+		ArrayAdapter<String> adapter5 = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, str2);
+		//adapter1.setDropDownViewResource(android.R.layout.simple_list_item_1);
+		edNeedRQAC.setThreshold(1);
+		edNeedRQAC.setAdapter(adapter5);
+		edNeedRQAC.setOnTouchListener(new View.OnTouchListener(){
+			@Override
+			public boolean onTouch(View v, MotionEvent event){
+				edNeedRQAC.showDropDown();
+				return false;
+			}
+		});
+
+		ArrayAdapter<String> adapter4 = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, str2);
+		//adapter1.setDropDownViewResource(android.R.layout.simple_list_item_1);
+		edonlyrfidsale.setThreshold(1);
+		edonlyrfidsale.setAdapter(adapter4);
+		edonlyrfidsale.setOnTouchListener(new View.OnTouchListener(){
+			@Override
+			public boolean onTouch(View v, MotionEvent event){
+				edonlyrfidsale.showDropDown();
+				return false;
+			}
+		});
+
+		ArrayAdapter<String> adapter6 = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, str2);
+		//adapter1.setDropDownViewResource(android.R.layout.simple_list_item_1);
+		edallowrewrdpts.setThreshold(1);
+		edallowrewrdpts.setAdapter(adapter4);
+		edallowrewrdpts.setOnTouchListener(new View.OnTouchListener(){
+			@Override
+			public boolean onTouch(View v, MotionEvent event){
+				edallowrewrdpts.showDropDown();
+				return false;
+			}
+		});
+
+		//set adapter for scanmode RFID/QRCode
+		ArrayAdapter<String> adapter_scanmode = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, str_scan_mode);
+		edselscanmode.setThreshold(1);
+		edselscanmode.setAdapter(adapter_scanmode);
+		edselscanmode.setOnTouchListener(new View.OnTouchListener() {
+			@Override
+			public boolean onTouch(View v, MotionEvent event) {
+				edselscanmode.showDropDown();
+				return false;
+			}
+		});
+
+		ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(parent,
+				android.R.layout.simple_list_item_1, str);
+		//adapter1.setDropDownViewResource(android.R.layout.simple_list_item_1);
+		edPrinterUsage.setThreshold(1);
+		edPrinterUsage.setAdapter(adapter1);
+		edPrinterUsage.setOnTouchListener(new View.OnTouchListener(){
+			@Override
+			public boolean onTouch(View v, MotionEvent event){
+				edPrinterUsage.showDropDown();
+				return false;
+			}
+		});
+		
+		
+		SetListener();
+		date = new DatePickerDialog.OnDateSetListener() {
+
+			@Override
+			public void onDateSet(DatePicker view, int year, int monthOfYear, int dayOfMonth) {
+				// TODO Auto-generated method stub
+				myCalendar.set(Calendar.YEAR, year);
+				myCalendar.set(Calendar.MONTH, monthOfYear);
+				myCalendar.set(Calendar.DAY_OF_MONTH, dayOfMonth);
+				updateLabel();
+			}
+
+		};
+	}
+
+	private static void updateLabel() {
+		String myFormat2 = "dd-MM-yyyy"; //In which you need put here
+		SimpleDateFormat sdf2 = new SimpleDateFormat(myFormat2, Locale.US);
+		edworkingdate.setText(sdf2.format(myCalendar.getTime()));
+		PetroSoftData.WORKINGDATE=sdf2.format(myCalendar.getTime());
+	}
+
+	private void updateCustomerSpinner() {
+		ItemNameList.clear();
+		DatabaseHelper db1 = new DatabaseHelper(parent);
+		SQLiteDatabase db = db1.getWritableDatabase();
+
+		Cursor cursor = db.rawQuery(
+				"Select ItemName from Item order by ItemName ASC", null);
+
+		if (cursor.getCount() != 0) {
+			cursor.moveToFirst();
+			do {
+				ItemNameList.add(cursor.getString(0));
+			} while (cursor.moveToNext());
+			cursor.close();
+			db.close();
+			db1.close();
+		}
+	}
+
+	private void initViews() {
+		// TODO Auto-generated method stub
+		parent = SetupActivity.this;
+		myCalendar = Calendar.getInstance();
+		ItemNameList = new ArrayList<String>();
+		edfilepath = (EditText) findViewById(R.id.edfilepath);
+		btngallery = (ImageView) findViewById(R.id.btngallery);
+		btngallery.setVisibility(View.VISIBLE);
+		ivlogo = (ImageView) findViewById(R.id.iconlogo);
+		edPrinterUsage = (AutoCompleteTextView) findViewById(R.id.edPrinterUsage);
+		edNeedVehKm = (AutoCompleteTextView) findViewById(R.id.edNeedVehKm);
+		edNeedRQAC = (AutoCompleteTextView) findViewById(R.id.edNeedRQAC);
+		edonlyrfidsale = (AutoCompleteTextView) findViewById(R.id.edonlyrfidsale);
+		edallowrewrdpts = (AutoCompleteTextView) findViewById(R.id.edallowrewrdpts);
+		edselscanmode = (AutoCompleteTextView)findViewById(R.id.edselscanmode);
+		edworkingdate = (EditText) findViewById(R.id.edworkingdate);
+		eddefaultitem = (AutoCompleteTextView) findViewById(R.id.eddefaultitem);
+		edtermsNcondition = (EditText) findViewById(R.id.termsNcondition);
+		btnSaveSettings = (Button) findViewById(R.id.btnSaveSettings);
+
+		SharedPreferences sp = getSharedPreferences("SetupPref" ,Context.MODE_PRIVATE);
+		String sps  = sp.getString("SetupPrinterSetting",null);
+		String snrqac  = sp.getString("SetupNeedRQAC", "No");
+		String snveh  = sp.getString("SetupNeedVehKm", "No");
+		String sors  = sp.getString("SetupOnlyRFIDSale", "No");
+		String sarp  = sp.getString("SetupRewardsPoints", "No");
+		String sdi  = sp.getString("SetupDefaultItem", null);
+		String simgpath = sp.getString("SetupImgPath",null);
+		String surlimg = sp.getString("SetupUrlImg",null);
+        String selscnmode = sp.getString("SetupScanMode", null);
+
+        PetroSoftData.DefaultItem = sdi;
+		PetroSoftData.RemoveRQAC = snrqac;
+		PetroSoftData.NeedVehKm = snveh;
+		PetroSoftData.OnlyRFIDSale = sors;
+		PetroSoftData.AllowRewardsPoints = sarp;
+		//set scanmode value RFID/QR
+        PetroSoftData.ScanMode_RFID_QRCODE = selscnmode;
+		PetroSoftData.PRINTERSETTING =sps;
+		PetroSoftData.imgPath =simgpath;
+		PetroSoftData.urlpath =surlimg;
+
+
+			if(PetroSoftData.imgPath != null){
+
+                if(PetroSoftData.urlpath != null || PetroSoftData.urlpath != "") {
+
+                    edfilepath.setText(PetroSoftData.urlpath);
+                    edfilepath.setOnClickListener(null);
+                    edfilepath.setOnTouchListener(null);
+                    edfilepath.setOnEditorActionListener(null);
+                    btngallery.setVisibility(View.GONE);
+
+                    Picasso.with(SetupActivity.this).load(PetroSoftData.imgPath)
+                            .placeholder(R.drawable.petro_soft_logo)
+                            .error(R.drawable.petro_soft_logo)
+                            .into(btngallery);
+                    Picasso.with(SetupActivity.this).load(PetroSoftData.imgPath)
+                            .placeholder(R.drawable.petro_soft_logo)
+                            .error(R.drawable.petro_soft_logo)
+                            .into(ivlogo);
+                }else {
+
+                    btngallery.setVisibility(View.GONE);
+                    ivlogo.setImageResource(R.drawable.petro_soft_logo);
+                    btngallery.setImageResource(R.drawable.petro_soft_logo);
+			}
+		}else {
+
+		}
+
+		}
+	
+	public void onClick(View v) {
+		switch (v.getId()) {
+			case R.id.btnSaveSettings:
+				PetroSoftData.PRINTERSETTING = edPrinterUsage.getText().toString();
+				PetroSoftData.WORKINGDATE = edworkingdate.getText().toString();
+				PetroSoftData.RemoveRQAC = edNeedRQAC.getText().toString();
+				PetroSoftData.NeedVehKm = edNeedVehKm.getText().toString();
+				PetroSoftData.OnlyRFIDSale = edonlyrfidsale.getText().toString();
+				PetroSoftData.AllowRewardsPoints = edallowrewrdpts.getText().toString();
+				PetroSoftData.DefaultItem = eddefaultitem.getText().toString();
+				PetroSoftData.TnC = edtermsNcondition.getText().toString();
+				PetroSoftData.urlpath = edfilepath.getText().toString().trim();
+				PetroSoftData.imgPath = "http://"+PetroSoftData.IP+"/Petrosoft/"+PetroSoftData.urlpath;
+				//set add scanmode RFID/QR
+				PetroSoftData.ScanMode_RFID_QRCODE = edselscanmode.getText().toString();
+
+				SharedPreferences LoginPref = getApplicationContext()
+						.getSharedPreferences("SetupPref",Context.MODE_PRIVATE); // 0 - for private mode
+				SharedPreferences.Editor edtcv = LoginPref.edit();
+				edtcv.putString("SetupPrinterSetting", PetroSoftData.PRINTERSETTING);
+				edtcv.putString("SetupNeedRQAC", PetroSoftData.RemoveRQAC);
+				edtcv.putString("SetupNeedVehKm", PetroSoftData.NeedVehKm);
+				edtcv.putString("SetupOnlyRFIDSale", PetroSoftData.OnlyRFIDSale);
+				edtcv.putString("SetupRewardsPoints", PetroSoftData.AllowRewardsPoints);
+				edtcv.putString("SetupDefaultItem", PetroSoftData.DefaultItem);
+				edtcv.putString("SetupImgPath", PetroSoftData.imgPath);
+				edtcv.putString("SetupUrlImg", PetroSoftData.urlpath);
+				// add scanmode to shared pref RFID/QR
+				edtcv.putString("SetupScanMode",PetroSoftData.ScanMode_RFID_QRCODE);
+
+				edtcv.commit();
+				startActivity(new Intent(parent, MainActivity.class));
+				finish();
+				break;
+
+			case R.id.edworkingdate:
+				new DatePickerDialog(parent, date, myCalendar
+						.get(Calendar.YEAR), myCalendar.get(Calendar.MONTH),
+						myCalendar.get(Calendar.DAY_OF_MONTH)).show();
+				break;
+			/*case R.id.btngallery:
+				Intent intent = new Intent(Intent.ACTION_PICK,
+						android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+				startActivityForResult(intent, IMG_RESULT);
+				break;*/
+		}
+	}
+
+	@Override
+	public void onBackPressed() {
+		super.onBackPressed();
+		startActivity(new Intent(parent, MainActivity.class));
+		finish();
+	}
+
+	private void SetListener() {
+		// TODO Auto-generated method stub
+		btnSaveSettings.setOnClickListener(this);
+		edworkingdate.setOnClickListener(this);
+		//btngallery.setOnClickListener(this);
+	}
+
+	@Override
+	public boolean onSearchRequested(SearchEvent searchEvent) {
+		return false;
+	}
+
+	@Nullable
+	@Override
+	public ActionMode onWindowStartingActionMode(ActionMode.Callback callback, int type) {
+		return null;
+	}
+}

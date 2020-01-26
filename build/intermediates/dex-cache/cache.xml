@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\e900c820c91591c64ad7b058c6c3a5fc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\a13f0f3baf1e51c3c11c8b58179cabd3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\libs\btsdk.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f6b84f6fbcfbf895952b8e0c007ec5d0fce9bc9">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1c6e814f26631d5c1fee9047d8e67511\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\c505c65f33ffe6f1efe99355f3f27e00\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\5fd0451732485cd952b0bbc939b82943\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\62fa3f5badc03ec36c48fd8647c7bc75\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\acr-1.0.1.aar\482576af4426f22ad055a2b662ba567c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eba91a56fc2ea7123fc71abec010c8dbe7dcdacb">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\design-26.0.0.aar\fcff8c9ba8ed3f6c5a4d28b7ea7f8a75\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\899810a8683029d151365e1b8d15d99d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects_Chetana\PetroSoft1\ndeftoolsutil\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8c98e895ab2e798e9997f110b647e935abf8a99">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\129447c69114421016e721b296db084e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\bb0fe6c42a426ea12d9a5b524951f5ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\1a4f61a961c4274e8a65c15449309b93\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\libs\ksoap2-j2se-full-2.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f550320c35a2f2cdcd7a0d56eea37a86779131b">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.6.0.aar\27c88518b10aaba01f10d5814f5f40f6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="164c932a12ebe032b89d9b289fed9923b8885e17">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.2\f47e3fc99fb2755b8a354d60efa021a0b88f4180\core-3.3.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47e3fc99fb2755b8a354d60efa021a0b88f4180">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\transition-26.0.0.aar\f58aa0cd74f55ac444f266e89bc5e315\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sayali\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\94c434b74ccf97b4bd9cbfd2e3a4df7a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProjects_Chetana\PetroSoft1\ndeftools\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5888cc167d8273aba3fffdab5c037295e39d6e48">
+        <dex dex="D:\AndroidProjects_Chetana\PetroSoft1\petroSoft\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+
+</items>

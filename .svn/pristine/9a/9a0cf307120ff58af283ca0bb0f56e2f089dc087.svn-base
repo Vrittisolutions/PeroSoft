@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33fafdb5-300d-430e-91e2-7d089674ebe5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/common/PetroSoftData.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/common/PetroSoftData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$GetBillNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$GetBillNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$PrintBill.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$PrintBill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/petroSoft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/petroSoft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/common/PetroSoftData.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/common/PetroSoftData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="677473609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="14" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="14" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="150" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="150" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="294" column="22" selection-start-line="294" selection-start-column="22" selection-end-line="294" selection-end-column="22" />
+              <folding>
+                <element signature="e#2416#2535#0" expanded="true" />
+                <element signature="e#2534#2535#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="552" column="40" lean-forward="true" selection-start-line="552" selection-start-column="40" selection-end-line="552" selection-end-column="40" />
+              <folding>
+                <element signature="e#4138#4452#0" />
+                <element signature="e#4455#10624#0" />
+                <element signature="e#10629#12563#0" />
+                <element signature="e#12566#13128#0" />
+                <element signature="e#13131#14064#0" />
+                <element signature="e#14067#14691#0" />
+                <element signature="e#14694#15189#0" />
+                <element signature="e#15192#15744#0" />
+                <element signature="e#15748#16354#0" />
+                <element signature="e#17489#18490#0" expanded="true" />
+                <element signature="e#18489#18490#0" expanded="true" />
+                <element signature="e#18523#19013#0" expanded="true" />
+                <element signature="e#19012#19013#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/database/DatabaseHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="408" selection-start-line="408" selection-end-line="408" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="200" column="28" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
+              <folding>
+                <element signature="e#6189#6582#0" expanded="true" />
+                <element signature="e#6581#6582#0" expanded="true" />
+                <element signature="e#6624#6728#0" expanded="true" />
+                <element signature="e#6727#6728#0" expanded="true" />
+                <element signature="method#scanQR#0;class#CardRegistrationActivity#0" />
+                <element signature="method#showDialog#0;class#CardRegistrationActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_card_registration.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_billdetails.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="252" column="36" selection-start-line="252" selection-start-column="36" selection-end-line="252" selection-end-column="36" />
+              <folding>
+                <element signature="e#235#1049#0" />
+                <element signature="e#10928#11480#0" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rfidNumberEdittext</find>
+      <find>ivlogo</find>
+      <find>button_exit_print</find>
+      <find>button_cardreg_register</find>
+      <find>btnExitPrint</find>
+      <find>btnSubmit</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/common/PetroSoftData.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="ZY2245TDGD" />
+    <property name="DEBUGGABLE_PROCESS" value="com.vritti.petrosoft" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Cardre&#9;FILE&#9;file://E:/Chetana_VFTP/Android/PROJECT/PetroSoft1/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java&#10;Log&#9;PSI&#9;JAVA://com.vritti.petrosoft.LoginActivity&#10;Sale&#9;PSI&#9;JAVA://com.vritti.petrosoft.SaleActivity" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="ZY2245TDGD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../29SEPT_RELEASE/OrderBilling" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="petroSoft" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="petroSoft" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\chetana\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\.idea" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33fafdb5-300d-430e-91e2-7d089674ebe5" name="Default Changelist" comment="" />
+      <created>1547641460137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547641460137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19779508" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.6296296" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50427353" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32859176" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32619974" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1341</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1348</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1278</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1281</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1293</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1327</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1326</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1329</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1328</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1304</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1302</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1300</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1330</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1295</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1296</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1298</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>579</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>584</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>585</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>196</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>245</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>244</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>248</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>250</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>251</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>254</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>257</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>258</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>260</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>262</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>266</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>268</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>271</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>282</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>195</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>491</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>492</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>500</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>495</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>497</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>502</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>562</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>568</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>573</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>574</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java</url>
+          <line>295</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java</url>
+          <line>286</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java</url>
+          <line>287</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>540</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>549</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>542</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>546</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/database/DatabaseHelper.java</url>
+          <line>407</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>552</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1311</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1312</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1321</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1322</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1306</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>1384</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java</url>
+          <line>278</line>
+          <properties class="com.vritti.petrosoft.CardRegistrationActivity.RegisterCard" method="onPostExecute" />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>661</line>
+          <properties class="com.vritti.petrosoft.BillDetails" method="createXml" />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java</url>
+          <line>719</line>
+          <properties class="com.vritti.petrosoft.BillDetails" method="getFirmDetails" />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/database/DatabaseHelper.java</url>
+          <line>394</line>
+          <properties class="com.vritti.database.DatabaseHelper" method="AddBillDetails" />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="142" column="35" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/common/PetroSoftData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="7334" selection-start-line="7334" selection-end-line="7334" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_billdetails.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="252" column="36" selection-start-line="252" selection-start-column="36" selection-end-line="252" selection-end-column="36" />
+          <folding>
+            <element signature="e#235#1049#0" />
+            <element signature="e#10928#11480#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="294" column="22" selection-start-line="294" selection-start-column="22" selection-end-line="294" selection-end-column="22" />
+          <folding>
+            <element signature="e#2416#2535#0" expanded="true" />
+            <element signature="e#2534#2535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_card_registration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="200" column="28" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
+          <folding>
+            <element signature="e#6189#6582#0" expanded="true" />
+            <element signature="e#6581#6582#0" expanded="true" />
+            <element signature="e#6624#6728#0" expanded="true" />
+            <element signature="e#6727#6728#0" expanded="true" />
+            <element signature="method#scanQR#0;class#CardRegistrationActivity#0" />
+            <element signature="method#showDialog#0;class#CardRegistrationActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="6302" selection-start-line="6302" selection-end-line="6302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/database/DatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="408" selection-start-line="408" selection-end-line="408" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="163" column="48" lean-forward="true" selection-start-line="163" selection-start-column="48" selection-end-line="163" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="552" column="40" lean-forward="true" selection-start-line="552" selection-start-column="40" selection-end-line="552" selection-end-column="40" />
+          <folding>
+            <element signature="e#4138#4452#0" />
+            <element signature="e#4455#10624#0" />
+            <element signature="e#10629#12563#0" />
+            <element signature="e#12566#13128#0" />
+            <element signature="e#13131#14064#0" />
+            <element signature="e#14067#14691#0" />
+            <element signature="e#14694#15189#0" />
+            <element signature="e#15192#15744#0" />
+            <element signature="e#15748#16354#0" />
+            <element signature="e#17489#18490#0" expanded="true" />
+            <element signature="e#18489#18490#0" expanded="true" />
+            <element signature="e#18523#19013#0" expanded="true" />
+            <element signature="e#19012#19013#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

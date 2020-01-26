@@ -1,0 +1,4 @@
+#Fri Jan 24 12:14:35 IST 2020
+base.0=D\:\\AndroidProjects_Chetana\\PetroSoft1\\petroSoft\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\AndroidProjects_Chetana\\PetroSoft1\\petroSoft\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex

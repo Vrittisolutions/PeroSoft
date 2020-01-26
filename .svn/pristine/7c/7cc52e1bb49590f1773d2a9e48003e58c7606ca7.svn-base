@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+     
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:background="#0C8FD1"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iconlogo"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tvpTitle"
+            android:layout_width="0sp"
+            android:layout_height="50sp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:padding="10sp"
+            android:text="PetroSoft"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+        
+        <ImageView
+            android:id="@+id/button_add"
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:background="@android:color/transparent"
+            android:onClick="FilterClick"
+            android:src="@drawable/expand" >
+        </ImageView>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+
+            <EditText
+                android:id="@+id/eddatentime"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:editable="false"
+                android:focusable="false"
+                android:gravity="bottom"
+                android:hint="Date and Time"
+                android:inputType="datetime"
+                android:textColor="#000000" />
+
+            <Spinner
+                android:id="@+id/edshift"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginTop="10dp"
+                android:gravity="bottom"
+                android:hint="Shift"
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/edCashier"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:gravity="bottom"
+                android:hint="Cashier"
+                android:textColor="#000000" />
+
+            <Button
+                android:id="@+id/btnPetroSale"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Petro Sale: "
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnProductSale"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Product Sale: "
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnOtherRcpt"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Other Rcpt: "
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnOtherAddRs"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Other Add(Rs.): "
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/edTotalRcvd"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:clickable="false"
+                android:editable="false"
+                android:enabled="false"
+                android:gravity="bottom"
+                android:hint="Total Received: "
+                android:textColor="#000000" />
+
+            <Button
+                android:id="@+id/btnCreditSale"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Credit Sale: "
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnOtherExp"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Other Exp: "
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnBankDeposit"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Cash Deposit: "
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/btnSwapCard"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonback"
+                android:gravity="left|center_vertical"
+                android:text="Swap Card: "
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/edTotalLess"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:clickable="false"
+                android:editable="false"
+                android:enabled="false"
+                android:gravity="bottom"
+                android:hint="Total Less: "
+                android:textColor="#000000" />
+
+            <EditText
+                android:id="@+id/edDifference"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:clickable="false"
+                android:editable="false"
+                android:enabled="false"
+                android:gravity="bottom"
+                android:hint="Difference: "
+                android:textColor="#000000" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+

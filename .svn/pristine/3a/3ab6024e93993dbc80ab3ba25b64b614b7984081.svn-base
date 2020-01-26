@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:D.\DeepProject\PetroSoft1\petroSoft\libs\ksoap2-j2se-full-2.1.2.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/petroSoft/libs/ksoap2-j2se-full-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

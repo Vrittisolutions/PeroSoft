@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33fafdb5-300d-430e-91e2-7d089674ebe5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskJars.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_8_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_8_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetroSoft1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PetroSoft1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftools/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftools/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftools/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftools/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftools/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftools/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftools/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftools/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftools/ndeftools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftools/ndeftools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftoolsutil/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftoolsutil/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftoolsutil/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftoolsutil/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/coreui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/design/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/design/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/fragment/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/mediacompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/transition/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/v4/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/com/vritti/petrosoft/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/generated/source/r/debug/com/vritti/petrosoft/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/compat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/coreutils/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$animator.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$animator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/design/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/mediacompat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/transition/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v4/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/common/PetroSoftData.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/common/PetroSoftData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BankDepoAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BankDepoAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$GetBillNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$GetBillNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$PrintBill.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$PrintBill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$RegisterCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$RegisterCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$UpdateVehicleMaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity$UpdateVehicleMaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CardRegistrationActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CashActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CashActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CashActivity1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CashActivity1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CouponSale.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CouponSale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CouponSaleCustActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CouponSaleCustActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetBankDepoActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetBankDepoActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetCashierActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetCashierActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetOtherAddRsActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetOtherAddRsActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetOtherExpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetOtherExpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetOtherRcptActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetOtherRcptActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetPetroSaleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetPetroSaleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetProductSaleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetProductSaleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetSwapCardActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DSRGetSwapCardActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DeviceListActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DeviceListActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DeviceListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/DeviceListActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/GetCashierActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/GetCashierActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/GetVehicleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/GetVehicleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$UpdateFirmDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$UpdateFirmDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$UpdateItemRateMaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity$UpdateItemRateMaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/LoginActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/MainActivity$UpdateCustomerMaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/MainActivity$UpdateCustomerMaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/ProdSaleAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/ProdSaleAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/ProductSelectionActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/ProductSelectionActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/PumpListAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/PumpListAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$animator.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$animator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/RegisterIpActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/RegisterIpActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/RegisterIpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/RegisterIpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity$GetCustDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity$GetCustDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SwapCardAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SwapCardAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/VehicleRegistrationActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/VehicleRegistrationActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/petroSoft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/petroSoft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/common/PetroSoftData.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/common/PetroSoftData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/RegisterIpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/RegisterIpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SetupActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SetupActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_card_registration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_card_registration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_setup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_setup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_url.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_url.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="677473609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="68" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+              <folding>
+                <element signature="e#2368#2487#0" expanded="true" />
+                <element signature="e#2486#2487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="142" column="15" lean-forward="true" selection-start-line="142" selection-start-column="15" selection-end-line="142" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_login.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rfidNumberEdittext</find>
+      <find>ivlogo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="vritti" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="vritti" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="petrosoft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Log&#9;PSI&#9;JAVA://com.vritti.petrosoft.LoginActivity&#10;Sale&#9;PSI&#9;JAVA://com.vritti.petrosoft.SaleActivity" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="ZY2245TDGD" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="petroSoft" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="petroSoft" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\chetana\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\.idea" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftools" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\ndeftoolsutil" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33fafdb5-300d-430e-91e2-7d089674ebe5" name="Default Changelist" comment="" />
+      <created>1547641460137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547641460137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.23281452" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32859176" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Preview" weight="0.3294423" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_sales.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_card_registration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="method#scanQR#0;class#CardRegistrationActivity#0" />
+            <element signature="method#showDialog#0;class#CardRegistrationActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <element signature="e#2368#2487#0" expanded="true" />
+            <element signature="e#2486#2487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="142" column="15" lean-forward="true" selection-start-line="142" selection-start-column="15" selection-end-line="142" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0_96c2a495abcf7cc7292eda76be8d08689b069f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0_d57e1efe83215bea95205e4d2a3ebd402125014e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0_47ed4b8c867c2c11054b67774dfffe0f0b0138f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0_f838c9058060e5bbc93a225948504e3b2a7ca32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0_6c8a01e4e9f1370113d8b5a5ee914b99ce2077c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftoolsutil\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2a875c919627eb144e92e1e7244fa05885ed4ea">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftoolsutil-unspecified_ca11c88b944d9709d2b2334a9d0793a81c2934dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chetana\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_1ed4fde01dce2b7395327c47fc5485c46a9b9023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\libs\ksoap2-j2se-full-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0f550320c35a2f2cdcd7a0d56eea37a86779131b">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\ksoap2-j2se-full-2.1.2_c39521df314ba8eae5fe115075616c8b0c29fa20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0_01e13c0e45136b381b71e6d88090397318b994ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chetana\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\picasso-2.5.2_00b305687f9b5ae3a5e3ee7c4d06dd84811d1c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftools\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="931ad1b9f3763ceb2c88eaf150f4e90247755047">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftools-unspecified_8fd685f4673d9551b6f6c33d0fdbfd0c38d28dd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\design\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0_7bf8199ee1c6e31a007f90825325945106bedd63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0_198843cb9ca0a70af7c0df1070b36669a404da19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\libs\btsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f6b84f6fbcfbf895952b8e0c007ec5d0fce9bc9">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\btsdk_bc1077372a871cb6e7cd0d5eb0a52a818013ca12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\transition\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0_989f2feebd2bc1fc6eaa6ef6a9908fbce4dc4e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0_00f3eaa7f82b9bd5366dfee24d7d570d7b36459f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chetana\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\jsoup-1.8.3_98618a35fc79ea683b6c3c8e6ac1ae111e7975fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_410bfb39aab795eb4f66eea6dd5612dd9a5c71b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0_d6613fd65eeace74055a8016b7cf2b7ed79f28e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0_ea8b2df9c00eb6c3f3c4f3da3e4223fa2352f45f.jar" />
+    </item>
+
+</items>

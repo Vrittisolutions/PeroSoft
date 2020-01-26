@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"    
+        android:background="#0C8FD1"
+    android:padding="10dp" >
+
+    <!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type Your Message : "
+        android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+    
+    <AutoCompleteTextView
+        android:id="@+id/editTextAccName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:editable="false"
+        android:focusableInTouchMode="true"
+        android:hint="Account Name"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </AutoCompleteTextView>
+
+    <EditText
+        android:id="@+id/editTexttid"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Tid"
+        android:inputType="text"
+        android:textColor="#000"
+        android:textSize="15sp"  />
+
+    <EditText
+        android:id="@+id/editTextBatchNo"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Batch No."
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:textSize="15sp"/>
+
+    <AutoCompleteTextView
+        android:id="@+id/editTextMode"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:editable="false"
+        android:focusableInTouchMode="true"
+        android:hint="Mode"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </AutoCompleteTextView>
+
+    <LinearLayout 
+        android:id="@+id/llforother"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"        
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+    
+        <EditText
+        android:id="@+id/editTextAmt2"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Amount "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:layout_weight="1" 
+        android:textSize="15sp">
+        
+    </EditText>
+    </LinearLayout>
+    <EditText
+        android:id="@+id/editTextNarration"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Remark"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    
+        
+        
+
+     
+
+    
+
+</LinearLayout>

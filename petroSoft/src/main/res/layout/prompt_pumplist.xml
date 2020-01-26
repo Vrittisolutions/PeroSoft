@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"    
+        android:background="#0C8FD1"
+    android:padding="10dp" >
+
+    <!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type Your Message : "
+        android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+    
+    <EditText
+        android:id="@+id/editTextPumpNamewithProd"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"        
+        android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:hint="Pump Name"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextOpening"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Opening: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    <EditText
+        android:id="@+id/editTextClosing"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Closing: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    <EditText
+        android:id="@+id/editTextTesting"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Testing: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    <EditText
+        android:id="@+id/editTextSaleLtrs"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Sale Ltrs: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    <EditText
+        android:id="@+id/editTextRate"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Rate: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    <EditText
+        android:id="@+id/editTextAmount"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Amount: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textSize="15sp">
+    </EditText>
+    
+        
+        
+
+     
+
+    
+
+</LinearLayout>

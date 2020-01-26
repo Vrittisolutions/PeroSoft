@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dsr_other_exp.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_dsr_other_exp.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_message.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\dialog_message.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_swap_card.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\prompt_swap_card.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_coupon.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon_sale_cust.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_coupon_sale_cust.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\password_dialog.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\password_dialog.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list_chooser.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_product_list_chooser.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_url.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_url.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dsr_product_sale.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_dsr_product_sale.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\img_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\img_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\pumplist_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\pumplist_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_card_registration.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_card_registration.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_message_ok.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\dialog_message_ok.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_setup.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dsr_bank_deposit.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_dsr_bank_deposit.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\salelayout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\salelayout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_prodlist.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\prompt_prodlist.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_cash.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\prompt_cash.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_bank.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\prompt_bank.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vehicle_registration.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_vehicle_registration.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\prompt_pumplist.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\prompt_pumplist.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_printtest.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_printtest.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dsr_main.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_dsr_main.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_billdetails.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_billdetails.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\productlist_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\productlist_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\billdetails.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\billdetails.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dsr_other_rcpt.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_dsr_other_rcpt.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dsr_petro_sale.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_dsr_petro_sale.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_sales.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_choose_result.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_list_choose_result.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\activity_getvehicle.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\src\\main\\res\\layout\\activity_getvehicle.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\26.0.0\\res\\layout\\notification_template_big_media.xml"
+    }
+]

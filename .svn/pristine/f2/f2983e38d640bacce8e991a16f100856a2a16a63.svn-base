@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"    
+        android:background="#0C8FD1"
+    android:padding="10dp" >
+
+    <!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type Your Message : "
+        android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+    
+    <AutoCompleteTextView
+        android:id="@+id/editTextAccName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:editable="false"
+        android:focusableInTouchMode="true"
+        android:hint="Account Name"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp" >
+    </AutoCompleteTextView>
+    
+    <LinearLayout 
+        android:id="@+id/llforbank"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"        
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"        
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+    <EditText
+        android:id="@+id/editTextAmt1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Amount "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:layout_weight="0.3" 
+        >     
+        
+    </EditText>
+    <Button
+     android:id="@+id/btncash"
+     android:layout_width="fill_parent"
+     android:layout_height="50dp"
+     android:layout_marginLeft="5dp"
+     android:background="@drawable/disablebuttonback"
+     android:gravity="center"
+     android:text="Cash"
+     android:textColor="#000000"
+     android:layout_weight="0.7" />
+    </LinearLayout>
+    <LinearLayout 
+        android:id="@+id/llforother"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"        
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"        
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+    
+        <EditText
+        android:id="@+id/editTextAmt2"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Amount "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:layout_weight="1" 
+        >     
+        
+    </EditText>
+    </LinearLayout>
+    <EditText
+        android:id="@+id/editTextNarration"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Narration"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp" >
+    </EditText>
+    
+        
+        
+
+     
+
+    
+
+</LinearLayout>

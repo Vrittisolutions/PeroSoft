@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0_09b520923d21ff5d0b6c4ea7ed089485e610761d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\libs\ksoap2-j2se-full-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f550320c35a2f2cdcd7a0d56eea37a86779131b">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\ksoap2-j2se-full-2.1.2_9d156ebac01237facac55223fecfecc8c0ef1c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0_2e4893ea159dad9861c195986ea022d9db150b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0_3054207989edbfa94aa9fcc71de0dd65a6f6741b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin-3\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\jsoup-1.8.3_ad0da743873b9dff59b9815a4a83e331d4a626c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\transition\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0_185bde09701e4517277d9c078d3cb302d04cde44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0_5db55b913aa28ffa2d5845c8acfd712380699d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0_fe6e8ec5c8bcdaae9f06968bfb8a8fe61937551a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin-3\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_acb512eb1b94d3cf30c54d1690e0412c74bcbe6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftoolsutil\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d8df4b96c7054475cbd10dfba2259161dbe50d3">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftoolsutil-unspecified_5e669ea837c940ccd77df7a47d94f94e72ed6183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\libs\ksoap2-j2se-full-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0f550320c35a2f2cdcd7a0d56eea37a86779131b">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\ksoap2-j2se-full-2.1.2_9d156ebac01237facac55223fecfecc8c0ef1c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\design\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0_ebaf007cf30018418619f2c3caf3ee9698db1dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin-3\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\picasso-2.5.2_f034b5c3095934f49cbe5748a977cc98460765da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\libs\btsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f6b84f6fbcfbf895952b8e0c007ec5d0fce9bc9">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\btsdk_43bdbcf074bae94a722ae290a22200f571df1d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftools\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="931ad1b9f3763ceb2c88eaf150f4e90247755047">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftools-unspecified_8f42b06883620c272026f41bfb864464e6f07991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_07c7517c2876ae41b9531bd11afaa20f07dbbbd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin-3\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\picasso-2.5.2_f034b5c3095934f49cbe5748a977cc98460765da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftoolsutil\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d8df4b96c7054475cbd10dfba2259161dbe50d3">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftoolsutil-unspecified_5e669ea837c940ccd77df7a47d94f94e72ed6183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftools\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="931ad1b9f3763ceb2c88eaf150f4e90247755047">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftools-unspecified_8f42b06883620c272026f41bfb864464e6f07991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftoolsutil\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d8df4b96c7054475cbd10dfba2259161dbe50d3">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftoolsutil-unspecified_5e669ea837c940ccd77df7a47d94f94e72ed6183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0_c10ea68aa10d8faa6da720a4cd8b89a2b4e6f566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\PetroSoft1\ndeftools\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="931ad1b9f3763ceb2c88eaf150f4e90247755047">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\PetroSoft1-ndeftools-unspecified_8f42b06883620c272026f41bfb864464e6f07991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0_7d5bdbecaa465c581c41446761d4f99c6f4a77ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0_e3abac6c2d9ea70107a4c1cb64c65a5f9df631fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\libs\btsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f6b84f6fbcfbf895952b8e0c007ec5d0fce9bc9">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\btsdk_43bdbcf074bae94a722ae290a22200f571df1d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\libs\btsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f6b84f6fbcfbf895952b8e0c007ec5d0fce9bc9">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\btsdk_43bdbcf074bae94a722ae290a22200f571df1d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0_d315d712479d0d609a13c850c89a2c9dd7ea415a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0_da025c93fb8a724e0dc7d09bad820ef6a2cdef22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DeepProject\PetroSoft1\petroSoft\libs\ksoap2-j2se-full-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f550320c35a2f2cdcd7a0d56eea37a86779131b">
+        <dex dex="D:\DeepProject\PetroSoft1\petroSoft\build\intermediates\pre-dexed\debug\ksoap2-j2se-full-2.1.2_9d156ebac01237facac55223fecfecc8c0ef1c2d.jar" />
+    </item>
+
+</items>

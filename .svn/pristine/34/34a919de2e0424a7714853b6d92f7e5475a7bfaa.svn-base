@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Chetana_VFTP\\Android\\PROJECT\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "E:\\Chetana_VFTP\\Android\\PROJECT\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\DeepProject\\PetroSoft1\\petroSoft\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

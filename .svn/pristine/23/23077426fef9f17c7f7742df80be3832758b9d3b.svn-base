@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vritti.petrosoft"
+    android:versionCode="15"
+    android:versionName="11.2" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo.Light" >
+        <service android:name="com.vritti.petrosoft.SendDSRService" />
+
+        <activity android:name="com.vritti.petrosoft.RegisterIpActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<!--         <service android:name="com.gprinter.service.GpPrintService" android:label="GpPrintService" android:process=":remote" android:enabled="true" android:exported="true" > <intent-filter> <action android:name="com.gprinter.aidl.GpPrintService" /> </intent-filter> </service> -->
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetBankDepoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.CashActivity1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.SetupActivity"
+            android:screenOrientation="portrait" />
+        <!--
+            <activity
+            android:name="com.vritti.petrosoft.Printtest"
+            android:screenOrientation="portrait" />
+        -->
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetOtherExpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetSwapCardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetOtherRcptActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetOtherAddRsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetProductSaleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.SaleActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.vritti.petrosoft.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.CouponSaleCustActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetCashierActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DSRGetPetroSaleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.BillDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.ProductSelectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.DeviceListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.VehicleRegistrationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.CouponSale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.CardRegistrationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.GetVehicleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.vritti.petrosoft.GetCashierActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
+    </application>
+
+</manifest>

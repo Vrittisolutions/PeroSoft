@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+     >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:background="#0C8FD1"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iconlogo"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tvpTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="50sp"
+            android:gravity="center_vertical"
+            android:padding="10sp"
+            android:text="PetroSoft"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivlogo"
+        android:layout_width="250dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/petro_soft_logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+    <AutoCompleteTextView
+        android:id="@+id/edUserId"
+        android:layout_width="0dp"
+        android:layout_weight="0.9"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:gravity="bottom"
+        android:hint="User Id"
+        android:textColor="#000000" />
+
+        <ImageView
+            android:id="@+id/imgLogout"
+            android:layout_width="0dp"
+            android:layout_weight="0.1"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:src="@drawable/logout"
+            android:layout_marginTop="10dp"
+            />
+    </LinearLayout>
+    <EditText
+        android:id="@+id/edPassword"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:gravity="bottom"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/buttonback"
+        android:text="Login"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/buttonback"
+        android:text="Update"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

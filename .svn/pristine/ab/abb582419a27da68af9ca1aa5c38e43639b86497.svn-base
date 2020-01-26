@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"    
+        android:background="#0C8FD1"
+    android:padding="10dp" >
+
+    <!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type Your Message : "
+        android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+    
+    <AutoCompleteTextView
+        android:id="@+id/editTextItemNameinProd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:editable="false"
+        android:focusableInTouchMode="true"
+        android:hint="Item Name"
+        android:inputType="text"
+        android:textColor="#000"
+        android:padding="10dp" >
+    </AutoCompleteTextView>
+    <TextView
+        android:id="@+id/tvEndQty"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:gravity="left|center"
+        android:hint="Opening: "
+        android:textColorHint="#FFFFFF"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:padding="10dp" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/editTextQTYinProd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Closing: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp" >
+    </EditText>
+    <TextView
+        android:id="@+id/tvSaleofProd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:gravity="left|center"
+        android:hint="Sale: "
+        android:textColorHint="#FFFFFF"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:padding="10dp" >
+    </TextView>
+    
+    <EditText
+        android:id="@+id/editTextRateinProd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Rate: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp" >
+    </EditText>
+    <EditText
+        android:id="@+id/editTextAmtinProd"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:background="@drawable/edittext_border"
+        android:gravity="left|center"
+        android:hint="Amount: "
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:padding="10dp" >
+    </EditText>
+    
+    
+    
+        <!-- android:enabled="false"
+        android:clickable="false"
+        android:editable="false"
+        android:background="@drawable/edittext_border"
+        
+        android:inputType="numberDecimal" -->
+    
+        
+        
+
+     
+
+    
+
+</LinearLayout>

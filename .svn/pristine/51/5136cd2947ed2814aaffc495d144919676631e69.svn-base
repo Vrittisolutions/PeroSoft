@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '26.0.0'
+
+    defaultConfig {
+        applicationId "com.vritti.petrosoft"
+        minSdkVersion 15
+        targetSdkVersion 26
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    repositories {
+        jcenter()
+    }
+
+}
+
+dependencies {
+    implementation project(':ndeftools')
+    implementation project(':ndeftoolsutil')
+    implementation files('libs/btsdk.jar')
+    //compile files('libs/hpsdk.jar')
+    implementation files('libs/ksoap2-j2se-full-2.1.2.jar')
+
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'org.jsoup:jsoup:1.8.3'
+
+    implementation 'com.android.support:appcompat-v7:26.0.0'
+    implementation 'com.android.support:design:26.0.0'
+    implementation 'com.devs:acr:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation 'com.journeyapps:zxing-android-embedded:3.6.0'
+    //compile 'com.hp.mss:mobileprintsdk:v2.02.466'
+}

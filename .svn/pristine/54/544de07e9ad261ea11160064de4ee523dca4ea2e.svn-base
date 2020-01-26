@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:E.\Chetana_VFTP\Android\PROJECT\PetroSoft1\petroSoft\libs\btsdk.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/petroSoft/libs/btsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

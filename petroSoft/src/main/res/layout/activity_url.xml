@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context="com.vritti.petrosoft.MainActivity" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50sp"
+        android:background="#0C8FD1"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iconlogo"
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginTop="5sp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tvpTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="50sp"
+            android:gravity="center_vertical"
+            android:padding="10sp"
+            android:text="PetroSoft"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/petro_soft_logo" />
+
+    <EditText
+        android:id="@+id/edIpAddress"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:gravity="bottom"
+        android:hint="Please provide IP Address"
+        android:inputType="text"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/btnRegisterIP"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_pressed"
+        android:text="Save IP"
+        android:textColor="#ffffff" />
+
+    <CheckBox
+        android:id="@+id/isOperator"
+        android:layout_width="137dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="Is Operator" />
+
+</LinearLayout>

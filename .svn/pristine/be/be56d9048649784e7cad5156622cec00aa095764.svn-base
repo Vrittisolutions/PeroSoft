@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PetroSoft1.iml" filepath="$PROJECT_DIR$/PetroSoft1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndeftools/ndeftools.iml" filepath="$PROJECT_DIR$/ndeftools/ndeftools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" filepath="$PROJECT_DIR$/ndeftoolsutil/ndeftoolsutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petroSoft/petroSoft.iml" filepath="$PROJECT_DIR$/petroSoft/petroSoft.iml" />
+    </modules>
+  </component>
+</project>

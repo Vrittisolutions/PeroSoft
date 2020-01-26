@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80d4ad41-3042-4532-9ade-10b89839c4ca" name="Default Changelist" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$GetBillNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$GetBillNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$PrintBill.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$PrintBill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails$SaveBillDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/BillDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CouponSaleCustActivity$GetCustDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/CouponSaleCustActivity$GetCustDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity$GetCustDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SaleActivity$GetCustDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/classes/debug/com/vritti/petrosoft/SetupActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CouponSaleCustActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CouponSaleCustActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SetupActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SetupActivity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="677473609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="14" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="14" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="295" column="43" selection-start-line="295" selection-start-column="43" selection-end-line="295" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="494" column="28" lean-forward="true" selection-start-line="494" selection-start-column="28" selection-end-line="494" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java" />
+        <option value="$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="11" />
+    <option name="y" value="9" />
+    <option name="width" value="1400" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="vritti" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PetroSoft1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="petroSoft" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="vritti" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="petrosoft" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="ZY2245TDGD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="petroSoft" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="petroSoft" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\chetana\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\.idea" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+          <option name="myCopyRoot" value="E:\Chetana_VFTP\Android\PROJECT\PetroSoft1" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d4ad41-3042-4532-9ade-10b89839c4ca" name="Default Changelist" comment="" />
+      <created>1549865824942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549865824942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.22438392" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32905984" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/BillDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/SaleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="295" column="43" selection-start-line="295" selection-start-column="43" selection-end-line="295" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroSoft/src/main/java/com/vritti/petrosoft/CardRegistrationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="494" column="28" lean-forward="true" selection-start-line="494" selection-start-column="28" selection-end-line="494" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
